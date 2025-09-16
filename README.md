@@ -16,16 +16,6 @@ This project demonstrates user authentication, employee creation, editing, and s
 - **Backend:** Firebase (Auth + Realtime Database)
 - **Build Tools:** Babel, Gradle (for Android)
 
-## Project Structure
-Manager-master/
-│── App.js # Root component
-│── index.js # Entry point
-│── android/ # Android native project
-│── tests/ # Unit tests
-│── package.json # Project dependencies
-│── app.json # React Native app config
-│── babel.config.js # Babel transpiler config
-
 
 ## Getting Started
 
@@ -36,6 +26,7 @@ cd manager-app
 npm install
 npx react-native run-android
 npx react-native run-ios
+```
 
 ## Environment Setup
 
